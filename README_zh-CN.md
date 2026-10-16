@@ -19,6 +19,24 @@
 gpt-image-2(VIP) **$0.0019/image 起**；本表 low/1K 实测档位为 **$0.0019/image**。不同模型、质量和分辨率不代表同质效果。
 
 [视频补测、参数、费用与复用](video_extra/README_zh-CN.md)
+<!-- TOAPIS-VIDEO-PREVIEWS-20261016 -->
+### Seedance 视频演示与本条消费
+
+[![HeliosGen · Seedance 2](video_extra/previews/seedance-2.jpg)](https://raw.githubusercontent.com/ToAPIs-2025/lower-cost-heliosgen-toapis/main/video_extra/clips/seedance-2.mp4)
+
+**Seedance 2** · 480p · 4.04s · **$0.25497/clip** · 约 $0.063111/s
+
+[![HeliosGen · Seedance 2 Mini](video_extra/previews/seedance-2-mini.jpg)](https://raw.githubusercontent.com/ToAPIs-2025/lower-cost-heliosgen-toapis/main/video_extra/clips/seedance-2-mini.mp4)
+
+**Seedance 2 Mini** · 480p · 4.04s · **$0.127484/clip** · 约 $0.031555/s
+
+[![HeliosGen · Seedance 2.5](video_extra/previews/seedance-2-5.jpg)](https://raw.githubusercontent.com/ToAPIs-2025/lower-cost-heliosgen-toapis/main/video_extra/clips/seedance-2-5.mp4)
+
+**Seedance 2.5** · 480p · 4.04s · **$0.388/clip** · 约 $0.096040/s
+
+这三条此前已核对，本轮仅补公开演示，没有重新生成。
+
+<!-- /TOAPIS-VIDEO-PREVIEWS-20261016 -->
 <!-- /TOAPIS-MODEL-COST-UPDATE-20261016 -->
 
 [English](README.md) · [中文](README_zh-CN.md)

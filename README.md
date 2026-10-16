@@ -19,6 +19,24 @@ Independent API assets validated; upstream native registration, UI and complete 
 gpt-image-2(VIP), **from $0.0019/image**; the tested low/1K preset here is **$0.0019/image**. Different models, qualities and resolutions do not imply equivalent results.
 
 [Video additions, parameters, costs and reuse](video_extra/README.md)
+<!-- TOAPIS-VIDEO-PREVIEWS-20261016 -->
+### Seedance video demos and clip costs
+
+[![HeliosGen · Seedance 2](video_extra/previews/seedance-2.jpg)](https://raw.githubusercontent.com/ToAPIs-2025/lower-cost-heliosgen-toapis/main/video_extra/clips/seedance-2.mp4)
+
+**Seedance 2** · 480p · 4.04s · **$0.25497/clip** · about $0.063111/s
+
+[![HeliosGen · Seedance 2 Mini](video_extra/previews/seedance-2-mini.jpg)](https://raw.githubusercontent.com/ToAPIs-2025/lower-cost-heliosgen-toapis/main/video_extra/clips/seedance-2-mini.mp4)
+
+**Seedance 2 Mini** · 480p · 4.04s · **$0.127484/clip** · about $0.031555/s
+
+[![HeliosGen · Seedance 2.5](video_extra/previews/seedance-2-5.jpg)](https://raw.githubusercontent.com/ToAPIs-2025/lower-cost-heliosgen-toapis/main/video_extra/clips/seedance-2-5.mp4)
+
+**Seedance 2.5** · 480p · 4.04s · **$0.388/clip** · about $0.096040/s
+
+These three earlier clips were owner-confirmed; this update publishes the demos without regenerating them.
+
+<!-- /TOAPIS-VIDEO-PREVIEWS-20261016 -->
 <!-- /TOAPIS-MODEL-COST-UPDATE-20261016 -->
 
 [English](README.md) · [中文](README_zh-CN.md)
