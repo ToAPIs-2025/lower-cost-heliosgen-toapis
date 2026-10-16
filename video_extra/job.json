@@ -1,0 +1,7 @@
+{
+  "model": "seedance-2",
+  "image": "https://raw.githubusercontent.com/ToAPIs-2025/lower-cost-heliosgen-toapis/main/examples/gpt-image-2-vip.png",
+  "prompt": "A slow cinematic push toward the ivory perfume bottle, soft window shadows gently shift, realistic glass highlights, keep the original product shape, no text.",
+  "run_id": "my-unique-seedance-2-example",
+  "output": "results/seedance-2.mp4"
+}
