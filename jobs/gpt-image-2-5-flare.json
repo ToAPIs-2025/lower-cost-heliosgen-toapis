@@ -1,0 +1,9 @@
+{
+  "kind": "image",
+  "model": "gpt-image-2.5-flare",
+  "prompt": "A premium editorial product photograph of an original ivory perfume bottle with a brushed copper cap on a lavender stone plinth, soft lilac background, subtle window shadows, clean realistic glass, no text, no logos, square frame.",
+  "size": "1024x1024",
+  "run_id": "1016-hg-1",
+  "output": "examples/gpt-image-2-5-flare.png",
+  "evidence": "evidence/gpt-image-2-5-flare.json"
+}

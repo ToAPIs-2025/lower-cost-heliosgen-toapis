@@ -1,0 +1,27 @@
+{
+  "task_id": "tsk_img_01M517XP800E26BH1PGFNZMTHK",
+  "model": "gpt-image-2-vip",
+  "quote_usd": 0.0019,
+  "actual_charge_usd": null,
+  "actual_dimensions": [
+    1024,
+    1024
+  ],
+  "original_format": "PNG",
+  "billing": null,
+  "request": {
+    "model": "gpt-image-2-vip",
+    "prompt": "A premium editorial product photograph of an original ivory perfume bottle with a brushed copper cap on a lavender stone plinth, soft lilac background, subtle window shadows, clean realistic glass, no text, no logos, square frame.",
+    "n": 1,
+    "size": "1:1",
+    "resolution": "1K",
+    "quality": "low"
+  },
+  "original_output": "examples/gpt-image-2-vip.original.png",
+  "date": "2026-10-16",
+  "status": "completed",
+  "prompt": "A premium editorial product photograph of an original ivory perfume bottle with a brushed copper cap on a lavender stone plinth, soft lilac background, subtle window shadows, clean realistic glass, no text, no logos, square frame.",
+  "output": "examples/gpt-image-2-vip.png",
+  "sha256": "8d8151faa77908d2ce717482c627a3f43fff34ae89daea162d0a4c4fc6ed956a",
+  "validation_scope": "Independent API asset adapter example; upstream application UI and native registration not accepted yet"
+}

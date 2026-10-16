@@ -1,0 +1,34 @@
+{
+  "task_id": "tsk_vid_01M5183AHQGMM1TQCV32JH2B0S",
+  "model": "MiniMax-H3",
+  "request": {
+    "model": "MiniMax-H3",
+    "prompt": "A slow cinematic push toward the ivory perfume bottle, soft window shadows gently shift, realistic glass highlights, keep the original product shape, no text.",
+    "duration": 5,
+    "resolution": "768p",
+    "aspect_ratio": "1:1",
+    "image_with_roles": [
+      {
+        "url": "<reference URL omitted>",
+        "role": "first_frame"
+      }
+    ]
+  },
+  "catalog_estimate_usd": "0.40",
+  "billing": {
+    "status": "pending"
+  },
+  "actual_charge_usd": null,
+  "date": "2026-10-16",
+  "status": "completed",
+  "prompt": "A slow cinematic push toward the ivory perfume bottle, soft window shadows gently shift, realistic glass highlights, keep the original product shape, no text.",
+  "output": "demo/first-frame-motion.mp4",
+  "sha256": "235bbaf8bc8b5b77bd0ac4cc3a92086c6c0ecac76ac4c82bdc551b858d4db3b0",
+  "validation_scope": "Independent API asset adapter example; upstream application UI and native registration not accepted yet",
+  "full_video_decode_verified": true,
+  "actual_duration_seconds": 5.17,
+  "actual_dimensions": [
+    768,
+    768
+  ]
+}
